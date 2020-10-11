@@ -1,0 +1,9 @@
+﻿  main.cpp
+  ThreadPool.cpp
+D:\Загрузки\OSISP_WinAPI-Laba2\OSISP_WinAPI-Laba2\ThreadPoolV2\ThreadPoolV2\ThreadPool.cpp(75,25): warning C4101: e: неиспользованная локальная переменная
+D:\Загрузки\OSISP_WinAPI-Laba2\OSISP_WinAPI-Laba2\ThreadPoolV2\ThreadPoolV2\ThreadPool.cpp(85,25): warning C4101: e: неиспользованная локальная переменная
+D:\Загрузки\OSISP_WinAPI-Laba2\OSISP_WinAPI-Laba2\ThreadPoolV2\ThreadPoolV2\ThreadPool.cpp(95,25): warning C4101: e: неиспользованная локальная переменная
+D:\Загрузки\OSISP_WinAPI-Laba2\OSISP_WinAPI-Laba2\ThreadPoolV2\ThreadPoolV2\ThreadPool.cpp(105,25): warning C4101: e: неиспользованная локальная переменная
+D:\Загрузки\OSISP_WinAPI-Laba2\OSISP_WinAPI-Laba2\ThreadPoolV2\ThreadPoolV2\ThreadPool.cpp(116,25): warning C4101: e: неиспользованная локальная переменная
+  Создание кода...
+  ThreadPoolV2.vcxproj -> D:\Загрузки\OSISP_WinAPI-Laba2\OSISP_WinAPI-Laba2\ThreadPoolV2\x64\Debug\ThreadPoolV2.exe
