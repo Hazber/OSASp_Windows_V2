@@ -1,40 +1,60 @@
 #pragma once
 #include<Windows.h>
-const TCHAR fileName[] = L"Logs.txt";
-const TCHAR msgInit[] = L"Threadpool with %d pool was created %s.";
+#include <chrono>
+#include <ctime> 
+#include <string>
+#include <iostream>
+#include <fstream>
+#include <sstream>
 
-//DWORD ThreadPoolLoggerInit(int threadCount);
 class Logger {
 public:
 
+	void LogInit(int count) {
+		outstr.open("Logss.txt");
+		std::ostringstream oss;
+		oss << count;
+		std::string s = oss.str();
+		if (outstr.is_open())
+		{
+			outstr << "ThreadPool with " + s + " threads is successfully created!" << std::endl;
+		}
+	}
+
+	void LogFileWrite(int num,int flag)
+	{
+		std::ostringstream oss;
+		oss << num;
+		std::string s = oss.str();
+		if (outstr.is_open())
+		{
+			switch (flag)
+			{
+				case 1:
+				{
+					outstr << "Task " + s + " successfully added to ThreadPool Task que" << std::endl;
+				}
+				break;
+				case 2:
+				{
+					outstr << "Error adding Task" + s << std::endl;
+				}
+				break;
+				case 3:
+				{
+					outstr << "Exception on Task" + s << std::endl;
+				}
+			}
+		}
+
+	}
 	
-
-	Logger()
-	{
-	     hFile = CreateFile(fileName, GENERIC_WRITE, FILE_SHARE_WRITE, NULL, OPEN_EXISTING, FILE_ATTRIBUTE_NORMAL, NULL);
+	void StopLog() {
+		outstr.close();
 	}
-
-	/*DWORD ThreadPoolLoggerInit(HANDLE hFile,int threadCount)
-	{
-		DWORD dwTemp;
-		WriteFile(hFile, &msgInit, sizeof(msgInit), &dwTemp, NULL);
-	}
-
-	DWORD LoggerTaskAdding(HANDLE hFile,int taskNum)
-	{
-
-	}*/
-	DWORD LogFileWrite(TCHAR usingString[], int num_or_count)
-	{
-		DWORD dwTemp;
-		WriteFile(hFile, &msgInit, sizeof(msgInit), &dwTemp, NULL);
-	}
-
-	DWORD StopLog()
-	{
-		CloseHandle(hFile);
-	}
+	
 private:
-	HANDLE hFile;
+	std::ofstream outstr;
 	
+
 };

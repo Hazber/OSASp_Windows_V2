@@ -1,9 +1,11 @@
-﻿  main.cpp
+﻿D:\VST\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (ThreadPoolV2.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main.cpp
   ThreadPool.cpp
-D:\Загрузки\OSISP_WinAPI-Laba2\OSISP_WinAPI-Laba2\ThreadPoolV2\ThreadPoolV2\ThreadPool.cpp(75,25): warning C4101: e: неиспользованная локальная переменная
-D:\Загрузки\OSISP_WinAPI-Laba2\OSISP_WinAPI-Laba2\ThreadPoolV2\ThreadPoolV2\ThreadPool.cpp(85,25): warning C4101: e: неиспользованная локальная переменная
-D:\Загрузки\OSISP_WinAPI-Laba2\OSISP_WinAPI-Laba2\ThreadPoolV2\ThreadPoolV2\ThreadPool.cpp(95,25): warning C4101: e: неиспользованная локальная переменная
-D:\Загрузки\OSISP_WinAPI-Laba2\OSISP_WinAPI-Laba2\ThreadPoolV2\ThreadPoolV2\ThreadPool.cpp(105,25): warning C4101: e: неиспользованная локальная переменная
-D:\Загрузки\OSISP_WinAPI-Laba2\OSISP_WinAPI-Laba2\ThreadPoolV2\ThreadPoolV2\ThreadPool.cpp(116,25): warning C4101: e: неиспользованная локальная переменная
+D:\Загрузки\OSISP_WinAPI-Laba2\OSISP_WinAPI-Laba2\ThreadPoolV2\ThreadPoolV2\ThreadPool.cpp(74,25): warning C4101: e: неиспользованная локальная переменная
+D:\Загрузки\OSISP_WinAPI-Laba2\OSISP_WinAPI-Laba2\ThreadPoolV2\ThreadPoolV2\ThreadPool.cpp(86,25): warning C4101: e: неиспользованная локальная переменная
+D:\Загрузки\OSISP_WinAPI-Laba2\OSISP_WinAPI-Laba2\ThreadPoolV2\ThreadPoolV2\ThreadPool.cpp(97,25): warning C4101: e: неиспользованная локальная переменная
+D:\Загрузки\OSISP_WinAPI-Laba2\OSISP_WinAPI-Laba2\ThreadPoolV2\ThreadPoolV2\ThreadPool.cpp(109,25): warning C4101: e: неиспользованная локальная переменная
+D:\Загрузки\OSISP_WinAPI-Laba2\OSISP_WinAPI-Laba2\ThreadPoolV2\ThreadPoolV2\ThreadPool.cpp(121,25): warning C4101: e: неиспользованная локальная переменная
+D:\Загрузки\OSISP_WinAPI-Laba2\OSISP_WinAPI-Laba2\ThreadPoolV2\ThreadPoolV2\ThreadPool.cpp(132,25): warning C4101: e: неиспользованная локальная переменная
   Создание кода...
-  ThreadPoolV2.vcxproj -> D:\Загрузки\OSISP_WinAPI-Laba2\OSISP_WinAPI-Laba2\ThreadPoolV2\x64\Debug\ThreadPoolV2.exe
+  ThreadPoolV2.vcxproj -> D:\Загрузки\OSISP_WinAPI-Laba2\OSISP_WinAPI-Laba2\ThreadPoolV2\x64\Debug\ThreadPool.exe
