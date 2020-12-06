@@ -1,0 +1,66 @@
+﻿  pch.cpp
+  dllmain.cpp
+  PhoneBookSmallDLL.cpp
+D:\Загрузки\OSISP_WinAPI-Laba4\PhoneBookSmall\PhoneBookSmallDLL\PhoneBookSmallDLL.cpp(118,34): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Загрузки\OSISP_WinAPI-Laba4\PhoneBookSmall\PhoneBookSmallDLL\PhoneBookSmallDLL.cpp(178,1): warning C4311: приведение типов: усечение указателя из "_Ty" в "int"
+          with
+          [
+              _Ty=PhonebookRecord *
+          ]
+D:\Загрузки\OSISP_WinAPI-Laba4\PhoneBookSmall\PhoneBookSmallDLL\PhoneBookSmallDLL.cpp(175): message : во время компиляции функции-члена класс шаблон "std::vector<PhonebookRecord *,std::allocator<PhonebookRecord *>> Indexer<wchar_t [20]>::Search(TreeNode *,wchar_t [])"
+D:\Загрузки\OSISP_WinAPI-Laba4\PhoneBookSmall\PhoneBookSmallDLL\PhoneBookSmallDLL.cpp(45): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::vector<PhonebookRecord *,std::allocator<PhonebookRecord *>> Indexer<wchar_t [20]>::Search(TreeNode *,wchar_t [])"
+D:\Загрузки\OSISP_WinAPI-Laba4\PhoneBookSmall\PhoneBookSmallDLL\PhoneBookSmallDLL.cpp(30): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Indexer<wchar_t [20]>"
+D:\Загрузки\OSISP_WinAPI-Laba4\PhoneBookSmall\PhoneBookSmallDLL\PhoneBookSmallDLL.cpp(178,1): warning C4302: приведение типов: усечение из "_Ty" к "int"
+          with
+          [
+              _Ty=PhonebookRecord *
+          ]
+D:\Загрузки\OSISP_WinAPI-Laba4\PhoneBookSmall\PhoneBookSmallDLL\PhoneBookSmallDLL.cpp(178,1): warning C4312: приведение типов: преобразование из "int" в "T (*)" большего размера
+          with
+          [
+              T=wchar_t [20]
+          ]
+D:\Загрузки\OSISP_WinAPI-Laba4\PhoneBookSmall\PhoneBookSmallDLL\PhoneBookSmallDLL.cpp(178,1): warning C4312: приведение типов: преобразование из "int" в "T (*)" большего размера
+          with
+          [
+              T=wchar_t [5]
+          ]
+D:\Загрузки\OSISP_WinAPI-Laba4\PhoneBookSmall\PhoneBookSmallDLL\PhoneBookSmallDLL.cpp(144,1): warning C4311: приведение типов: усечение указателя из "PhonebookRecord *" в "int"
+D:\Загрузки\OSISP_WinAPI-Laba4\PhoneBookSmall\PhoneBookSmallDLL\PhoneBookSmallDLL.cpp(139): message : во время компиляции функции-члена класс шаблон "TreeNode *Indexer<wchar_t [20]>::Insert(TreeNode *,PhonebookRecord *)"
+D:\Загрузки\OSISP_WinAPI-Laba4\PhoneBookSmall\PhoneBookSmallDLL\PhoneBookSmallDLL.cpp(162): message : выполняется компиляция ссылки на экземпляр шаблон функции "TreeNode *Indexer<wchar_t [20]>::Insert(TreeNode *,PhonebookRecord *)"
+D:\Загрузки\OSISP_WinAPI-Laba4\PhoneBookSmall\PhoneBookSmallDLL\PhoneBookSmallDLL.cpp(159): message : во время компиляции функции-члена класс шаблон "Indexer<wchar_t [20]>::Indexer(std::vector<PhonebookRecord *,std::allocator<PhonebookRecord *>>,int)"
+D:\Загрузки\OSISP_WinAPI-Laba4\PhoneBookSmall\PhoneBookSmallDLL\PhoneBookSmallDLL.cpp(30): message : выполняется компиляция ссылки на экземпляр шаблон функции "Indexer<wchar_t [20]>::Indexer(std::vector<PhonebookRecord *,std::allocator<PhonebookRecord *>>,int)"
+D:\Загрузки\OSISP_WinAPI-Laba4\PhoneBookSmall\PhoneBookSmallDLL\PhoneBookSmallDLL.cpp(144,1): warning C4302: приведение типов: усечение из "PhonebookRecord *" к "int"
+D:\Загрузки\OSISP_WinAPI-Laba4\PhoneBookSmall\PhoneBookSmallDLL\PhoneBookSmallDLL.cpp(144,1): warning C4312: приведение типов: преобразование из "int" в "T (*)" большего размера
+          with
+          [
+              T=wchar_t [20]
+          ]
+D:\Загрузки\OSISP_WinAPI-Laba4\PhoneBookSmall\PhoneBookSmallDLL\PhoneBookSmallDLL.cpp(145,1): warning C4311: приведение типов: усечение указателя из "_Ty" в "int"
+          with
+          [
+              _Ty=PhonebookRecord *
+          ]
+D:\Загрузки\OSISP_WinAPI-Laba4\PhoneBookSmall\PhoneBookSmallDLL\PhoneBookSmallDLL.cpp(145,1): warning C4302: приведение типов: усечение из "_Ty" к "int"
+          with
+          [
+              _Ty=PhonebookRecord *
+          ]
+D:\Загрузки\OSISP_WinAPI-Laba4\PhoneBookSmall\PhoneBookSmallDLL\PhoneBookSmallDLL.cpp(145,1): warning C4312: приведение типов: преобразование из "int" в "T (*)" большего размера
+          with
+          [
+              T=wchar_t [20]
+          ]
+D:\Загрузки\OSISP_WinAPI-Laba4\PhoneBookSmall\PhoneBookSmallDLL\PhoneBookSmallDLL.cpp(144,1): warning C4312: приведение типов: преобразование из "int" в "T (*)" большего размера
+          with
+          [
+              T=wchar_t [5]
+          ]
+D:\Загрузки\OSISP_WinAPI-Laba4\PhoneBookSmall\PhoneBookSmallDLL\PhoneBookSmallDLL.cpp(145,1): warning C4312: приведение типов: преобразование из "int" в "T (*)" большего размера
+          with
+          [
+              T=wchar_t [5]
+          ]
+  Создание кода...
+     Создается библиотека D:\Загрузки\OSISP_WinAPI-Laba4\PhoneBookSmall\x64\Debug\PhoneBookSmallDLL.lib и объект D:\Загрузки\OSISP_WinAPI-Laba4\PhoneBookSmall\x64\Debug\PhoneBookSmallDLL.exp
+  PhoneBookSmallDLL.vcxproj -> D:\Загрузки\OSISP_WinAPI-Laba4\PhoneBookSmall\x64\Debug\PhoneBookSmallDLL.dll
