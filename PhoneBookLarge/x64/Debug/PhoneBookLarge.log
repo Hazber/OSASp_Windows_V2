@@ -1,0 +1,51 @@
+﻿  PhoneBookLarge.cpp
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLargeDll.h(47,17): error C3646: hSrcFile: неизвестный спецификатор переопределения
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLargeDll.h(47,17): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLargeDll.h(48,18): error C3646: dwFileSize: неизвестный спецификатор переопределения
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLargeDll.h(48,18): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLargeDll.h(49,19): error C3646: hMapObject: неизвестный спецификатор переопределения
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLargeDll.h(49,19): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLargeDll.h(50,23): error C3646: lpvFilePointer: неизвестный спецификатор переопределения
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLargeDll.h(50,23): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLargeDll.h(51,14): error C3646: offset: неизвестный спецификатор переопределения
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLargeDll.h(51,14): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLargeDll.h(53,14): error C2065: DWORD: необъявленный идентификатор
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLargeDll.h(53,7): error C2923: std::vector: "DWORD" не является допустимым аргументом типа шаблон для параметра "_Ty"
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLargeDll.h(53,7): error C2976: std::vector: слишком мало аргументов шаблон
+D:\VST\VC\Tools\MSVC\14.27.29110\include\vector(413): message : см. объявление "std::vector"
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLargeDll.h(54,21): error C3646: sysinfo: неизвестный спецификатор переопределения
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLargeDll.h(54,21): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLargeDll.h(56,24): error C3646: currentDirectory: неизвестный спецификатор переопределения
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLargeDll.h(56,24): error C2143: синтаксическая ошибка: отсутствие "," перед "["
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLargeDll.h(56,30): error C2143: синтаксическая ошибка: отсутствие ")" перед ";"
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLargeDll.h(56,30): error C2238: непредвиденные лексемы перед ";"
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLargeDll.h(57,23): error C3646: SetFilePointer: неизвестный спецификатор переопределения
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLargeDll.h(57,23): error C2059: синтаксическая ошибка: (
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLargeDll.h(57,74): error C2238: непредвиденные лексемы перед ";"
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLargeDll.h(58,29): error C2061: синтаксическая ошибка: идентификатор "DWORD"
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLargeDll.h(59,26): error C2061: синтаксическая ошибка: идентификатор "DWORD"
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLargeDll.h(60,15): error C3646: ReadByte: неизвестный спецификатор переопределения
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLargeDll.h(60,15): error C2059: синтаксическая ошибка: (
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLargeDll.h(60,29): error C2238: непредвиденные лексемы перед ";"
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLarge.cpp(106,36): warning C4311: приведение типов: усечение указателя из "HMENU" в "int"
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLarge.cpp(106,36): warning C4302: приведение типов: усечение из "HMENU" к "int"
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLarge.cpp(111,34): warning C4311: приведение типов: усечение указателя из "HMENU" в "int"
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLarge.cpp(111,34): warning C4302: приведение типов: усечение из "HMENU" к "int"
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLarge.cpp(114,52): error C2039: "SearchFrom": не является членом "IPhoneBook".
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLargeDll.h(24): message : см. объявление "IPhoneBook"
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLarge.cpp(115,24): error C3536: result: не может использоваться до инициализации
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLarge.cpp(116,64): error C2664: "void UpdateListView(HWND,std::vector<PhonebookRecord *,std::allocator<PhonebookRecord *>>)": невозможно преобразовать аргумент 2 из "int" в "std::vector<PhonebookRecord *,std::allocator<PhonebookRecord *>>"
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLarge.cpp(116,64): message : Конструктор для class "std::vector<PhonebookRecord *,std::allocator<PhonebookRecord *>>" объявлен как "explicit"
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLarge.h(41,6): message : см. объявление "UpdateListView"
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLarge.cpp(119,34): warning C4311: приведение типов: усечение указателя из "HMENU" в "int"
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLarge.cpp(119,34): warning C4302: приведение типов: усечение из "HMENU" к "int"
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLarge.cpp(122,38): error C2039: "PrevPage": не является членом "IPhoneBook".
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLargeDll.h(24): message : см. объявление "IPhoneBook"
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLarge.cpp(123,52): error C2039: "SearchFrom": не является членом "IPhoneBook".
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLargeDll.h(24): message : см. объявление "IPhoneBook"
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLarge.cpp(124,24): error C3536: result: не может использоваться до инициализации
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLarge.cpp(125,64): error C2664: "void UpdateListView(HWND,std::vector<PhonebookRecord *,std::allocator<PhonebookRecord *>>)": невозможно преобразовать аргумент 2 из "int" в "std::vector<PhonebookRecord *,std::allocator<PhonebookRecord *>>"
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLarge.cpp(125,64): message : Конструктор для class "std::vector<PhonebookRecord *,std::allocator<PhonebookRecord *>>" объявлен как "explicit"
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLarge.h(41,6): message : см. объявление "UpdateListView"
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLarge.cpp(149,26): error C2039: "DestroyPhoneBook": не является членом "IPhoneBook".
+D:\Загрузки\OSISP_WinAPI-Laba5\OSISP_WinAPI-Laba5\PhoneBookLarge\PhoneBookLarge\PhoneBookLargeDll.h(24): message : см. объявление "IPhoneBook"
